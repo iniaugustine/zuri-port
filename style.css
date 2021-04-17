@@ -408,7 +408,7 @@ p.ty {
 @media only screen and (max-width : 800px) {
     div.background {
         width: 100%;
-        margin: 13% auto;
+        margin: 13% 0;
         border-radius: 12%;
     }
 
